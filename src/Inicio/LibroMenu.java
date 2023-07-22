@@ -20,7 +20,7 @@ public class LibroMenu {
         MenuEditorial menuedi = new MenuEditorial();
     MenuAutor menuautor = new MenuAutor();   
       
-   public void crearLibro(){
+    public void crearLibro(){
         System.out.println("Ingrese id");
         long id = leer.nextLong();
         System.out.println("Ingrese titulo");
@@ -159,7 +159,7 @@ public void buscarLibroTitulo(){
 }
 public void buscarLibroEditorial(){
     ArrayList<Libro> lista = new ArrayList(servlibro.traerLibros());
-       System.out.println("Indica el nombre de la editorial: ");
+       System.out.println("Indica el nombre de la editorial: ");      
       
        String elim= leer.next();
        Libro libro2 = new Libro();

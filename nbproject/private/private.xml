@@ -3,9 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Martin/Curso%20de%20Programacion/Curso%20Egg/Backend%20Java/Programas/JPA/LibreriaEgg/src/Inicio/MenuAutor.java</file>
-            <file>file:/D:/Martin/Curso%20de%20Programacion/Curso%20Egg/Backend%20Java/Programas/JPA/LibreriaEgg/src/Inicio/MenuEditorial.java</file>
-            <file>file:/D:/Martin/Curso%20de%20Programacion/Curso%20Egg/Backend%20Java/Programas/JPA/LibreriaEgg/src/Inicio/LibroMenu.java</file>
+            <file>file:/D:/Martin/Curso%20de%20Programacion/Curso%20Egg/Backend%20Java/Programas/JPA/LibreriaEgg/src/Grafica/Geditorial.java</file>
+            <file>file:/D:/Martin/Curso%20de%20Programacion/Curso%20Egg/Backend%20Java/Programas/JPA/LibreriaEgg/src/Grafica/Glibro.java</file>
+            <file>file:/D:/Martin/Curso%20de%20Programacion/Curso%20Egg/Backend%20Java/Programas/JPA/LibreriaEgg/src/Grafica/Gautor.java</file>
+            <file>file:/D:/Martin/Curso%20de%20Programacion/Curso%20Egg/Backend%20Java/Programas/JPA/LibreriaEgg/src/Grafica/Principal.java</file>
         </group>
     </open-files>
 </project-private>
